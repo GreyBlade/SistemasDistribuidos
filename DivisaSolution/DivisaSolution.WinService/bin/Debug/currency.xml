@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<!--
+ Licensed to the Apache Software Foundation (ASF) under one or more
+ contributor license agreements.  See the NOTICE file distributed with
+ this work for additional information regarding copyright ownership.
+ The ASF licenses this file to You under the Apache License, Version 2.0
+ (the "License"); you may not use this file except in compliance with
+ the License.  You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+-->
+
+<!-- Example exchange rates file for CurrencyField type named "currency" in example schema -->
+
+<currencyConfig version="1.0">
+  <rates>
+	<rate from="USD" to="AUD" rate="1.00028" comment="Australian $" />
+	<rate from="USD" to="AED" rate="1" comment="UAE Dirhams" />
+	<rate from="USD" to="ARS" rate="1" comment="Argentina Peso" />
+	<rate from="USD" to="ATS" rate="1" comment="Austrian Schilling" />
+	<rate from="USD" to="BEF" rate="1" comment="Belg : Franc" />
+	<rate from="USD" to="BHD" rate="1" comment="Bahraini Dinar" />
+	<rate from="USD" to="BWP" rate="1" comment="Botswana Pula" />
+	<rate from="USD" to="CAD" rate="1" comment="Canadian $" />
+	<rate from="USD" to="XAF" rate="1" comment="African Franc" />
+	<rate from="USD" to="CLP" rate="1" comment="Chilean Peso" />
+	<rate from="USD" to="COP" rate="1" comment="Colombian Peso" />
+	<rate from="USD" to="BRL" rate="1" comment="Brazil: REAL" />
+	<rate from="USD" to="ANG" rate="1" comment="Neth: Guilder" />
+	<rate from="USD" to="DKK" rate="1" comment="Denmark Krone" />
+	<rate from="USD" to="DEM" rate="1" comment="Germany: Mark" />
+	<rate from="USD" to="HRK" rate="1" comment="Croatian Kuna" />
+	<rate from="USD" to="EEK" rate="1" comment="Estonian Kroon" />
+	<rate from="USD" to="EGP" rate="1" comment="Egyptian Pound" />
+	<rate from="USD" to="EUR" rate="0.801093" comment="Euro" />
+	<rate from="USD" to="FRF" rate="1" comment="French : Franc" />
+	<rate from="USD" to="GBP" rate="1" comment="British Pound" />
+	<rate from="USD" to="HKD" rate="1" comment="Hong Kong: $" />
+	<rate from="USD" to="HUF" rate="1" comment="Hungarian Forint" />
+	<rate from="USD" to="IDR" rate="1" comment="Indonesian Rupiah" />
+	<rate from="USD" to="ITL" rate="1" comment="Italy: Lira" />
+	<rate from="USD" to="CZK" rate="1" comment="Czech Koruna" />
+	<rate from="USD" to="MTL" rate="1" comment="Maltese Lira" />
+	<rate from="USD" to="FIM" rate="1" comment="Finland Markka" />
+	<rate from="USD" to="MYR" rate="1" comment="Malaysian Ringgit" />
+	<rate from="USD" to="NGN" rate="1" comment="Nigerian Naira" />
+	<rate from="USD" to="NOK" rate="1" comment="Norwegian Krone" />
+	<rate from="USD" to="TWD" rate="1" comment="New Taiwan Dollars" />
+	<rate from="USD" to="NZD" rate="1" comment="New Zealand Dollars" />
+	<rate from="USD" to="MXN" rate="1" comment="Mexican Peso" />
+	<rate from="USD" to="PHP" rate="1" comment="Philippine Peso" />
+	<rate from="USD" to="PKR" rate="1" comment="Pakistani Rupee" />
+	<rate from="USD" to="PLN" rate="1" comment="Polish Zloty" />
+	<rate from="USD" to="ESP" rate="1" comment="Spain: Peseta" />
+	<rate from="USD" to="PTE" rate="1" comment="Portugese Escudo" />
+	<rate from="USD" to="IEP" rate="1" comment="Ireland" />
+	<rate from="USD" to="QAR" rate="1" comment="Qatari Riyal" />
+	<rate from="USD" to="ZAR" rate="1" comment="S. Africa: Rand" />
+	<rate from="USD" to="RUB" rate="1" comment="Russian Rubles" />
+	<rate from="USD" to="INR" rate="1" comment="Indian Rupee" />
+	<rate from="USD" to="SGD" rate="1" comment="Singapore $" />
+	<rate from="USD" to="SIT" rate="1" comment="Slovenia Tolar" />
+	<rate from="USD" to="SKK" rate="1" comment="Slovak Republic Koruna" />
+	<rate from="USD" to="SEK" rate="1" comment="Swedish Krona" />
+	<rate from="USD" to="CHF" rate="1" comment="Swiss: Franc" />
+	<rate from="USD" to="THB" rate="1" comment="Thai Baht" />
+	<rate from="USD" to="TRY" rate="1" comment="Turkish Lira" />
+	<rate from="USD" to="USD" rate="1" comment="USA: $" />
+	<rate from="USD" to="VEB" rate="1" comment="Venezuelan Bolivar" />
+	<rate from="USD" to="KRW" rate="1" comment="South Korea Won" />
+	<rate from="USD" to="JPY" rate="1" comment="Japan: Yen" />
+	<rate from="USD" to="YER" rate="1" comment="Yemeni Riyal" />
+  </rates>
+</currencyConfig>

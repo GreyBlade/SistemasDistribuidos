@@ -1,0 +1,14 @@
+C:\Users\Jaime\source\repos\Solution1\ServicioWeb\bin\ServicioWeb.dll.config
+C:\Users\Jaime\source\repos\Solution1\ServicioWeb\bin\ServicioWeb.dll
+C:\Users\Jaime\source\repos\Solution1\ServicioWeb\bin\ServicioWeb.pdb
+C:\Users\Jaime\source\repos\Solution1\ServicioWeb\bin\DataAccess.dll
+C:\Users\Jaime\source\repos\Solution1\ServicioWeb\bin\Entidades.dll
+C:\Users\Jaime\source\repos\Solution1\ServicioWeb\bin\ServicioParcial.dll
+C:\Users\Jaime\source\repos\Solution1\ServicioWeb\bin\DataAccess.pdb
+C:\Users\Jaime\source\repos\Solution1\ServicioWeb\bin\Entidades.pdb
+C:\Users\Jaime\source\repos\Solution1\ServicioWeb\bin\ServicioParcial.pdb
+C:\Users\Jaime\source\repos\Solution1\ServicioWeb\obj\Debug\ServicioWeb.csprojAssemblyReference.cache
+C:\Users\Jaime\source\repos\Solution1\ServicioWeb\obj\Debug\ServicioWeb.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\source\repos\Solution1\ServicioWeb\obj\Debug\ServicioWeb.csproj.CopyComplete
+C:\Users\Jaime\source\repos\Solution1\ServicioWeb\obj\Debug\ServicioWeb.dll
+C:\Users\Jaime\source\repos\Solution1\ServicioWeb\obj\Debug\ServicioWeb.pdb

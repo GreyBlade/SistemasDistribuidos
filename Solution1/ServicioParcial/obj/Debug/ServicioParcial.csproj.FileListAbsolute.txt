@@ -1,0 +1,11 @@
+C:\Users\Jaime\source\repos\Solution1\ServicioParcial\bin\Debug\ServicioParcial.dll
+C:\Users\Jaime\source\repos\Solution1\ServicioParcial\bin\Debug\ServicioParcial.pdb
+C:\Users\Jaime\source\repos\Solution1\ServicioParcial\bin\Debug\DataAccess.dll
+C:\Users\Jaime\source\repos\Solution1\ServicioParcial\bin\Debug\Entidades.dll
+C:\Users\Jaime\source\repos\Solution1\ServicioParcial\bin\Debug\DataAccess.pdb
+C:\Users\Jaime\source\repos\Solution1\ServicioParcial\bin\Debug\Entidades.pdb
+C:\Users\Jaime\source\repos\Solution1\ServicioParcial\obj\Debug\ServicioParcial.csprojAssemblyReference.cache
+C:\Users\Jaime\source\repos\Solution1\ServicioParcial\obj\Debug\ServicioParcial.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\source\repos\Solution1\ServicioParcial\obj\Debug\ServicioParcial.csproj.CopyComplete
+C:\Users\Jaime\source\repos\Solution1\ServicioParcial\obj\Debug\ServicioParcial.dll
+C:\Users\Jaime\source\repos\Solution1\ServicioParcial\obj\Debug\ServicioParcial.pdb

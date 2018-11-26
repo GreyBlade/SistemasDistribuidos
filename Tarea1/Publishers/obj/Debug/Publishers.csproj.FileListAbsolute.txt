@@ -1,0 +1,9 @@
+C:\Users\Jaime\source\repos\Tarea1\Publishers\bin\Debug\Publishers.dll
+C:\Users\Jaime\source\repos\Tarea1\Publishers\bin\Debug\Publishers.pdb
+C:\Users\Jaime\source\repos\Tarea1\Publishers\obj\Debug\Publishers.csprojAssemblyReference.cache
+C:\Users\Jaime\source\repos\Tarea1\Publishers\obj\Debug\Publishers.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\source\repos\Tarea1\Publishers\obj\Debug\Publishers.dll
+C:\Users\Jaime\source\repos\Tarea1\Publishers\obj\Debug\Publishers.pdb
+C:\Users\Jaime\source\repos\Tarea1\Publishers\bin\Debug\EntidadesBancarias.dll
+C:\Users\Jaime\source\repos\Tarea1\Publishers\bin\Debug\EntidadesBancarias.pdb
+C:\Users\Jaime\source\repos\Tarea1\Publishers\obj\Debug\Publishers.csproj.CopyComplete

@@ -1,0 +1,6 @@
+C:\Users\Jaime\source\repos\Tarea1\EntidadesBancarias\bin\Release\EntidadesBancarias.dll
+C:\Users\Jaime\source\repos\Tarea1\EntidadesBancarias\bin\Release\EntidadesBancarias.pdb
+C:\Users\Jaime\source\repos\Tarea1\EntidadesBancarias\obj\Release\EntidadesBancarias.csprojAssemblyReference.cache
+C:\Users\Jaime\source\repos\Tarea1\EntidadesBancarias\obj\Release\EntidadesBancarias.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\source\repos\Tarea1\EntidadesBancarias\obj\Release\EntidadesBancarias.dll
+C:\Users\Jaime\source\repos\Tarea1\EntidadesBancarias\obj\Release\EntidadesBancarias.pdb

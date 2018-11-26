@@ -1,0 +1,14 @@
+C:\Users\Jaime\source\repos\Tarea1\Tarea1ParalelaBanco\bin\Release\Tarea1ParalelaBanco.exe.config
+C:\Users\Jaime\source\repos\Tarea1\Tarea1ParalelaBanco\bin\Release\Tarea1ParalelaBanco.exe
+C:\Users\Jaime\source\repos\Tarea1\Tarea1ParalelaBanco\bin\Release\Tarea1ParalelaBanco.pdb
+C:\Users\Jaime\source\repos\Tarea1\Tarea1ParalelaBanco\bin\Release\ClassLibrary1.dll
+C:\Users\Jaime\source\repos\Tarea1\Tarea1ParalelaBanco\bin\Release\EntidadesBancarias.dll
+C:\Users\Jaime\source\repos\Tarea1\Tarea1ParalelaBanco\bin\Release\Publishers.dll
+C:\Users\Jaime\source\repos\Tarea1\Tarea1ParalelaBanco\bin\Release\ClassLibrary1.pdb
+C:\Users\Jaime\source\repos\Tarea1\Tarea1ParalelaBanco\bin\Release\EntidadesBancarias.pdb
+C:\Users\Jaime\source\repos\Tarea1\Tarea1ParalelaBanco\bin\Release\Publishers.pdb
+C:\Users\Jaime\source\repos\Tarea1\Tarea1ParalelaBanco\obj\Release\Tarea1ParalelaBanco.csprojAssemblyReference.cache
+C:\Users\Jaime\source\repos\Tarea1\Tarea1ParalelaBanco\obj\Release\Tarea1ParalelaBanco.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\source\repos\Tarea1\Tarea1ParalelaBanco\obj\Release\Tarea1ParalelaBanco.csproj.CopyComplete
+C:\Users\Jaime\source\repos\Tarea1\Tarea1ParalelaBanco\obj\Release\Tarea1ParalelaBanco.exe
+C:\Users\Jaime\source\repos\Tarea1\Tarea1ParalelaBanco\obj\Release\Tarea1ParalelaBanco.pdb
