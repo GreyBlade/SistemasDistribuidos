@@ -1,0 +1,10 @@
+C:\Users\Jaime\source\repos\VideoCoder\VideoCoderConsole\bin\Debug\VideoCoderConsole.exe.config
+C:\Users\Jaime\source\repos\VideoCoder\VideoCoderConsole\bin\Debug\VideoCoderConsole.exe
+C:\Users\Jaime\source\repos\VideoCoder\VideoCoderConsole\bin\Debug\VideoCoderConsole.pdb
+C:\Users\Jaime\source\repos\VideoCoder\VideoCoderConsole\obj\Debug\VideoCoderConsole.csprojAssemblyReference.cache
+C:\Users\Jaime\source\repos\VideoCoder\VideoCoderConsole\obj\Debug\VideoCoderConsole.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\source\repos\VideoCoder\VideoCoderConsole\obj\Debug\VideoCoderConsole.exe
+C:\Users\Jaime\source\repos\VideoCoder\VideoCoderConsole\obj\Debug\VideoCoderConsole.pdb
+C:\Users\Jaime\source\repos\VideoCoder\VideoCoderConsole\bin\Debug\VideoEncoderLibrary.dll
+C:\Users\Jaime\source\repos\VideoCoder\VideoCoderConsole\bin\Debug\VideoEncoderLibrary.pdb
+C:\Users\Jaime\source\repos\VideoCoder\VideoCoderConsole\obj\Debug\VideoCoderConsole.csproj.CopyComplete

@@ -1,0 +1,6 @@
+C:\Users\Jaime\source\repos\VideoCoder\VideoEncoderLibrary\bin\Debug\VideoEncoderLibrary.dll
+C:\Users\Jaime\source\repos\VideoCoder\VideoEncoderLibrary\bin\Debug\VideoEncoderLibrary.pdb
+C:\Users\Jaime\source\repos\VideoCoder\VideoEncoderLibrary\obj\Debug\VideoEncoderLibrary.csprojAssemblyReference.cache
+C:\Users\Jaime\source\repos\VideoCoder\VideoEncoderLibrary\obj\Debug\VideoEncoderLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\source\repos\VideoCoder\VideoEncoderLibrary\obj\Debug\VideoEncoderLibrary.dll
+C:\Users\Jaime\source\repos\VideoCoder\VideoEncoderLibrary\obj\Debug\VideoEncoderLibrary.pdb

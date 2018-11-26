@@ -1,0 +1,16 @@
+C:\Users\Jaime\source\repos\SuperHeroApp\SuperHeroesWebService\bin\SuperHeroesWebService.dll.config
+C:\Users\Jaime\source\repos\SuperHeroApp\SuperHeroesWebService\bin\SuperHeroesWebService.dll
+C:\Users\Jaime\source\repos\SuperHeroApp\SuperHeroesWebService\bin\SuperHeroesWebService.pdb
+C:\Users\Jaime\source\repos\SuperHeroApp\SuperHeroesWebService\obj\Debug\SuperHeroesWebService.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\source\repos\SuperHeroApp\SuperHeroesWebService\obj\Debug\SuperHeroesWebService.dll
+C:\Users\Jaime\source\repos\SuperHeroApp\SuperHeroesWebService\obj\Debug\SuperHeroesWebService.pdb
+C:\Users\Jaime\source\repos\SuperHeroApp\SuperHeroesWebService\bin\DataAccess.dll
+C:\Users\Jaime\source\repos\SuperHeroApp\SuperHeroesWebService\bin\Entities.dll
+C:\Users\Jaime\source\repos\SuperHeroApp\SuperHeroesWebService\bin\StructureMap.dll
+C:\Users\Jaime\source\repos\SuperHeroApp\SuperHeroesWebService\bin\SuperHeroesService.dll
+C:\Users\Jaime\source\repos\SuperHeroApp\SuperHeroesWebService\bin\DataAccess.pdb
+C:\Users\Jaime\source\repos\SuperHeroApp\SuperHeroesWebService\bin\Entities.pdb
+C:\Users\Jaime\source\repos\SuperHeroApp\SuperHeroesWebService\bin\SuperHeroesService.pdb
+C:\Users\Jaime\source\repos\SuperHeroApp\SuperHeroesWebService\bin\StructureMap.xml
+C:\Users\Jaime\source\repos\SuperHeroApp\SuperHeroesWebService\obj\Debug\SuperHeroesWebService.csproj.CopyComplete
+C:\Users\Jaime\source\repos\SuperHeroApp\SuperHeroesWebService\obj\Debug\SuperHeroesWebService.csprojAssemblyReference.cache

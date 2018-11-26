@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoCoderConsole", "VideoCoderConsole\VideoCoderConsole.csproj", "{464C103C-8113-4162-BD4E-56B9A90E5645}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoEncoderLibrary", "VideoEncoderLibrary\VideoEncoderLibrary.csproj", "{969804BF-2075-447E-955B-A190A799C50F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{464C103C-8113-4162-BD4E-56B9A90E5645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{464C103C-8113-4162-BD4E-56B9A90E5645}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{464C103C-8113-4162-BD4E-56B9A90E5645}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{464C103C-8113-4162-BD4E-56B9A90E5645}.Release|Any CPU.Build.0 = Release|Any CPU
+		{969804BF-2075-447E-955B-A190A799C50F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{969804BF-2075-447E-955B-A190A799C50F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{969804BF-2075-447E-955B-A190A799C50F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{969804BF-2075-447E-955B-A190A799C50F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF115EC7-4CD9-4159-8EEE-CFAA41526A23}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicioSuperHeroes", "ServicioSuperHeroes\ServicioSuperHeroes.csproj", "{24786890-7506-45B8-923A-FD587217D24C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "assets", "assets", "{5B029FF2-3203-4DB5-A43C-92F51CC51B25}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\RESGISTRADOS.DAT = ..\..\..\Downloads\RESGISTRADOS.DAT
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24786890-7506-45B8-923A-FD587217D24C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24786890-7506-45B8-923A-FD587217D24C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24786890-7506-45B8-923A-FD587217D24C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24786890-7506-45B8-923A-FD587217D24C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A9C3D48-91A4-4A97-A696-099022F724EC}
+	EndGlobalSection
+EndGlobal

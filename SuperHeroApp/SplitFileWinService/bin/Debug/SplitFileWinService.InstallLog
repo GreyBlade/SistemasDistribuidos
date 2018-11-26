@@ -1,0 +1,13 @@
+﻿Instalando ensamblado 'C:\Users\Jaime\source\repos\SuperHeroApp\SplitFileWinService\bin\Debug\SplitFileWinService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Jaime\source\repos\SuperHeroApp\SplitFileWinService\bin\Debug\SplitFileWinService.InstallLog
+   assemblypath = C:\Users\Jaime\source\repos\SuperHeroApp\SplitFileWinService\bin\Debug\SplitFileWinService.exe
+No se pudieron encontrar instaladores públicos con el atributo RunInstallerAttribute.Yes en el ensamblado C:\Users\Jaime\source\repos\SuperHeroApp\SplitFileWinService\bin\Debug\SplitFileWinService.exe.
+Confirmando ensamblado 'C:\Users\Jaime\source\repos\SuperHeroApp\SplitFileWinService\bin\Debug\SplitFileWinService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Jaime\source\repos\SuperHeroApp\SplitFileWinService\bin\Debug\SplitFileWinService.InstallLog
+   assemblypath = C:\Users\Jaime\source\repos\SuperHeroApp\SplitFileWinService\bin\Debug\SplitFileWinService.exe
+No se pudieron encontrar instaladores públicos con el atributo RunInstallerAttribute.Yes en el ensamblado C:\Users\Jaime\source\repos\SuperHeroApp\SplitFileWinService\bin\Debug\SplitFileWinService.exe.
+Quitar el archivo InstallState porque no hay instaladores.

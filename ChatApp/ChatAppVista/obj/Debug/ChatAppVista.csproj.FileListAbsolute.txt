@@ -1,0 +1,10 @@
+C:\Users\Jaime\source\repos\ChatApp\ChatAppVista\bin\Debug\ChatAppVista.exe.config
+C:\Users\Jaime\source\repos\ChatApp\ChatAppVista\bin\Debug\ChatAppVista.exe
+C:\Users\Jaime\source\repos\ChatApp\ChatAppVista\bin\Debug\ChatAppVista.pdb
+C:\Users\Jaime\source\repos\ChatApp\ChatAppVista\obj\Debug\ChatAppVista.csprojAssemblyReference.cache
+C:\Users\Jaime\source\repos\ChatApp\ChatAppVista\obj\Debug\ChatAppVista.Form1.resources
+C:\Users\Jaime\source\repos\ChatApp\ChatAppVista\obj\Debug\ChatAppVista.Properties.Resources.resources
+C:\Users\Jaime\source\repos\ChatApp\ChatAppVista\obj\Debug\ChatAppVista.csproj.GenerateResource.cache
+C:\Users\Jaime\source\repos\ChatApp\ChatAppVista\obj\Debug\ChatAppVista.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\source\repos\ChatApp\ChatAppVista\obj\Debug\ChatAppVista.exe
+C:\Users\Jaime\source\repos\ChatApp\ChatAppVista\obj\Debug\ChatAppVista.pdb

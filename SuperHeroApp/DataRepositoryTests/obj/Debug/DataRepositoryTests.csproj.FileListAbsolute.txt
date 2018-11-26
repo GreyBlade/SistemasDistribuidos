@@ -1,0 +1,16 @@
+C:\Users\Jaime\source\repos\SuperHeroApp\DataRepositoryTests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Jaime\source\repos\SuperHeroApp\DataRepositoryTests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Jaime\source\repos\SuperHeroApp\DataRepositoryTests\bin\Debug\nunit.engine.dll
+C:\Users\Jaime\source\repos\SuperHeroApp\DataRepositoryTests\bin\Debug\nunit.engine.api.dll
+C:\Users\Jaime\source\repos\SuperHeroApp\DataRepositoryTests\bin\Debug\DataRepositoryTests.dll
+C:\Users\Jaime\source\repos\SuperHeroApp\DataRepositoryTests\bin\Debug\DataRepositoryTests.pdb
+C:\Users\Jaime\source\repos\SuperHeroApp\DataRepositoryTests\bin\Debug\DataAccess.dll
+C:\Users\Jaime\source\repos\SuperHeroApp\DataRepositoryTests\bin\Debug\nunit.framework.dll
+C:\Users\Jaime\source\repos\SuperHeroApp\DataRepositoryTests\bin\Debug\DataAccess.pdb
+C:\Users\Jaime\source\repos\SuperHeroApp\DataRepositoryTests\bin\Debug\nunit.framework.pdb
+C:\Users\Jaime\source\repos\SuperHeroApp\DataRepositoryTests\bin\Debug\nunit.framework.xml
+C:\Users\Jaime\source\repos\SuperHeroApp\DataRepositoryTests\obj\Debug\DataRepositoryTests.csprojAssemblyReference.cache
+C:\Users\Jaime\source\repos\SuperHeroApp\DataRepositoryTests\obj\Debug\DataRepositoryTests.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\source\repos\SuperHeroApp\DataRepositoryTests\obj\Debug\DataRepositoryTests.csproj.CopyComplete
+C:\Users\Jaime\source\repos\SuperHeroApp\DataRepositoryTests\obj\Debug\DataRepositoryTests.dll
+C:\Users\Jaime\source\repos\SuperHeroApp\DataRepositoryTests\obj\Debug\DataRepositoryTests.pdb

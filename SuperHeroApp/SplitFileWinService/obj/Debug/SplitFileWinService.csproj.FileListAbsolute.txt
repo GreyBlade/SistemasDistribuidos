@@ -1,0 +1,7 @@
+C:\Users\Jaime\source\repos\SuperHeroApp\SplitFileWinService\bin\Debug\SplitFileWinService.exe.config
+C:\Users\Jaime\source\repos\SuperHeroApp\SplitFileWinService\bin\Debug\SplitFileWinService.exe
+C:\Users\Jaime\source\repos\SuperHeroApp\SplitFileWinService\bin\Debug\SplitFileWinService.pdb
+C:\Users\Jaime\source\repos\SuperHeroApp\SplitFileWinService\obj\Debug\SplitFileWinService.csprojAssemblyReference.cache
+C:\Users\Jaime\source\repos\SuperHeroApp\SplitFileWinService\obj\Debug\SplitFileWinService.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\source\repos\SuperHeroApp\SplitFileWinService\obj\Debug\SplitFileWinService.exe
+C:\Users\Jaime\source\repos\SuperHeroApp\SplitFileWinService\obj\Debug\SplitFileWinService.pdb

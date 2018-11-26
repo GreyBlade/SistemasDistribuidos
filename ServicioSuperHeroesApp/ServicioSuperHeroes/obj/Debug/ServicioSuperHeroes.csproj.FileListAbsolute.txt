@@ -1,0 +1,7 @@
+C:\Users\Jaime\source\repos\ServicioSuperHeroesApp\ServicioSuperHeroes\obj\Debug\ServicioSuperHeroes.csprojAssemblyReference.cache
+C:\Users\Jaime\source\repos\ServicioSuperHeroesApp\ServicioSuperHeroes\obj\Debug\ServicioSuperHeroes.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\source\repos\ServicioSuperHeroesApp\ServicioSuperHeroes\bin\ServicioSuperHeroes.dll.config
+C:\Users\Jaime\source\repos\ServicioSuperHeroesApp\ServicioSuperHeroes\bin\ServicioSuperHeroes.dll
+C:\Users\Jaime\source\repos\ServicioSuperHeroesApp\ServicioSuperHeroes\bin\ServicioSuperHeroes.pdb
+C:\Users\Jaime\source\repos\ServicioSuperHeroesApp\ServicioSuperHeroes\obj\Debug\ServicioSuperHeroes.dll
+C:\Users\Jaime\source\repos\ServicioSuperHeroesApp\ServicioSuperHeroes\obj\Debug\ServicioSuperHeroes.pdb

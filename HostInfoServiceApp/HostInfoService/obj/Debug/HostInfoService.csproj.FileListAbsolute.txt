@@ -1,0 +1,7 @@
+C:\Users\Jaime\source\repos\HostInfoServiceApp\HostInfoService\obj\Debug\HostInfoService.csprojAssemblyReference.cache
+C:\Users\Jaime\source\repos\HostInfoServiceApp\HostInfoService\obj\Debug\HostInfoService.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\source\repos\HostInfoServiceApp\HostInfoService\bin\HostInfoService.dll.config
+C:\Users\Jaime\source\repos\HostInfoServiceApp\HostInfoService\bin\HostInfoService.dll
+C:\Users\Jaime\source\repos\HostInfoServiceApp\HostInfoService\bin\HostInfoService.pdb
+C:\Users\Jaime\source\repos\HostInfoServiceApp\HostInfoService\obj\Debug\HostInfoService.dll
+C:\Users\Jaime\source\repos\HostInfoServiceApp\HostInfoService\obj\Debug\HostInfoService.pdb
