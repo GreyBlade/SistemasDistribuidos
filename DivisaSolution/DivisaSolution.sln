@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivisaSolution.DataAccess", "DivisaSolution.DataAccess\DivisaSolution.DataAccess.csproj", "{C9EF44B1-E14E-4CDC-A3C2-717EFE43BC18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivisaSolution.Service", "DivisaSolution.Service\DivisaSolution.Service.csproj", "{C999780A-E54D-45B2-83A6-9ECB326A346B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivisaSolution.IntegrationTests", "DivisaSolution.IntegrationTests\DivisaSolution.IntegrationTests.csproj", "{2E6D808C-D834-496A-AE61-80E7F6B34BEF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataAccess", "DataAccess", "{88C1DCD3-7FCA-41AC-8DEA-080845B6A3F5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{932DFFFD-4A03-4A30-9119-CFEE0ADF95FA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service", "Service", "{67216F83-8874-4BBC-AF8F-79911D443C21}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{FFD52E12-A2A7-4236-B6CB-9BD2C695DB57}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{FC4DEE0C-7EFC-4E0F-A01B-5479977A775A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{C7831BBA-46EB-427F-87D5-DD04921B6A4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9EF44B1-E14E-4CDC-A3C2-717EFE43BC18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9EF44B1-E14E-4CDC-A3C2-717EFE43BC18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9EF44B1-E14E-4CDC-A3C2-717EFE43BC18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9EF44B1-E14E-4CDC-A3C2-717EFE43BC18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C999780A-E54D-45B2-83A6-9ECB326A346B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C999780A-E54D-45B2-83A6-9ECB326A346B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C999780A-E54D-45B2-83A6-9ECB326A346B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C999780A-E54D-45B2-83A6-9ECB326A346B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E6D808C-D834-496A-AE61-80E7F6B34BEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E6D808C-D834-496A-AE61-80E7F6B34BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E6D808C-D834-496A-AE61-80E7F6B34BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E6D808C-D834-496A-AE61-80E7F6B34BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7831BBA-46EB-427F-87D5-DD04921B6A4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7831BBA-46EB-427F-87D5-DD04921B6A4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7831BBA-46EB-427F-87D5-DD04921B6A4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7831BBA-46EB-427F-87D5-DD04921B6A4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C9EF44B1-E14E-4CDC-A3C2-717EFE43BC18} = {88C1DCD3-7FCA-41AC-8DEA-080845B6A3F5}
+		{C999780A-E54D-45B2-83A6-9ECB326A346B} = {67216F83-8874-4BBC-AF8F-79911D443C21}
+		{2E6D808C-D834-496A-AE61-80E7F6B34BEF} = {932DFFFD-4A03-4A30-9119-CFEE0ADF95FA}
+		{C7831BBA-46EB-427F-87D5-DD04921B6A4E} = {FC4DEE0C-7EFC-4E0F-A01B-5479977A775A}
+	EndGlobalSection
+EndGlobal

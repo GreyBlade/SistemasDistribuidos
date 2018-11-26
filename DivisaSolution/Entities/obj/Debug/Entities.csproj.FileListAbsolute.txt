@@ -1,0 +1,6 @@
+C:\Users\Jaime\source\repos\DivisaSolution\Entities\bin\Debug\Entities.dll
+C:\Users\Jaime\source\repos\DivisaSolution\Entities\bin\Debug\Entities.pdb
+C:\Users\Jaime\source\repos\DivisaSolution\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\Jaime\source\repos\DivisaSolution\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\source\repos\DivisaSolution\Entities\obj\Debug\Entities.dll
+C:\Users\Jaime\source\repos\DivisaSolution\Entities\obj\Debug\Entities.pdb

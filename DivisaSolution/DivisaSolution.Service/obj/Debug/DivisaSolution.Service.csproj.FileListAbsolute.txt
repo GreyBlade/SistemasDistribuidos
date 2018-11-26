@@ -1,0 +1,14 @@
+C:\Users\Jaime\source\repos\DivisaSolution\DivisaSolution.Service\bin\Debug\currency.xml
+C:\Users\Jaime\source\repos\DivisaSolution\DivisaSolution.Service\bin\Debug\DivisaSolution.Service.dll
+C:\Users\Jaime\source\repos\DivisaSolution\DivisaSolution.Service\bin\Debug\DivisaSolution.Service.pdb
+C:\Users\Jaime\source\repos\DivisaSolution\DivisaSolution.Service\bin\Debug\DivisaSolution.DataAccess.dll
+C:\Users\Jaime\source\repos\DivisaSolution\DivisaSolution.Service\bin\Debug\Entities.dll
+C:\Users\Jaime\source\repos\DivisaSolution\DivisaSolution.Service\bin\Debug\StructureMap.dll
+C:\Users\Jaime\source\repos\DivisaSolution\DivisaSolution.Service\bin\Debug\DivisaSolution.DataAccess.pdb
+C:\Users\Jaime\source\repos\DivisaSolution\DivisaSolution.Service\bin\Debug\Entities.pdb
+C:\Users\Jaime\source\repos\DivisaSolution\DivisaSolution.Service\bin\Debug\StructureMap.xml
+C:\Users\Jaime\source\repos\DivisaSolution\DivisaSolution.Service\obj\Debug\DivisaSolution.Service.csprojAssemblyReference.cache
+C:\Users\Jaime\source\repos\DivisaSolution\DivisaSolution.Service\obj\Debug\DivisaSolution.Service.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\source\repos\DivisaSolution\DivisaSolution.Service\obj\Debug\DivisaSolution.Service.csproj.CopyComplete
+C:\Users\Jaime\source\repos\DivisaSolution\DivisaSolution.Service\obj\Debug\DivisaSolution.Service.dll
+C:\Users\Jaime\source\repos\DivisaSolution\DivisaSolution.Service\obj\Debug\DivisaSolution.Service.pdb
